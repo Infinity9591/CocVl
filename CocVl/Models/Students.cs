@@ -1,4 +1,4 @@
-﻿namespace LearnCs.Library.Models
+﻿namespace CocVl.Models
 {
     public class Students
     {
