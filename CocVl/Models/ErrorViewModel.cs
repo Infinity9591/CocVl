@@ -1,4 +1,4 @@
-namespace CocVl.Models
+namespace LearnCs.Library.Models
 {
     public class ErrorViewModel
     {
