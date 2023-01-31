@@ -1,0 +1,8 @@
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.csproj.AssemblyReference.cache
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.AssemblyInfoInputs.cache
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.AssemblyInfo.cs
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.csproj.CoreCompileInputs.cache
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.MvcApplicationPartsAssemblyInfo.cache
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.RazorAssemblyInfo.cache
+D:\C# Project\CocVl\CocVl\obj\Debug\net6.0\CocVl.RazorAssemblyInfo.cs
